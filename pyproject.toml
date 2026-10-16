@@ -23,7 +23,7 @@ dependencies = [
 
 [project.urls]
 homepage = "https://convex.dev"
-repository = "https://github.com/get-convex/convex-py"
+repository = "https://github.com/convex/convex-py"
 documentation = "https://docs.convex.dev"
 
 [build-system]

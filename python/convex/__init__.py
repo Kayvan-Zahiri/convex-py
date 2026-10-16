@@ -87,7 +87,7 @@ class QuerySubscription:
         self.invalidated: bool = False
 
     # This addresses the "hitting ctrl-c while subscribed" issue
-    # described in https://github.com/get-convex/convex/pull/18559.
+    # described in https://github.com/convex/convex/pull/18559.
     # If our program is interrupted/crashes while we're awaiting on a function
     # result from our backend, we might end up with a lost subscription.
     # This safeguard checks to make sure the inner subscription on the

@@ -3,7 +3,7 @@
 The official Python client for [Convex](https://convex.dev/).
 
 ![PyPI](https://img.shields.io/pypi/v/convex?label=convex&logo=pypi)
-![GitHub](https://img.shields.io/github/license/get-convex/convex-py)
+![GitHub](https://img.shields.io/github/license/convex/convex-py)
 
 Write and read data from a Convex backend with queries, mutations, and actions.
 Get up and running at [docs.convex.dev](https://docs.convex.dev/home).
